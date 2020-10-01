@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="title-capitalization", 
-    version="0.0.1",
+    version="0.0.2",
     author="Sarah Chen",
     author_email="schen21@andover.edu",
     description="A small example package to impose title capitalization upon a string",
