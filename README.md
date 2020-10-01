@@ -12,5 +12,5 @@ Import and use in Python using
 
 ```
 from titlecap import title
-title = title.use_caps('demo title text')
+title = title.add_caps('demo title text')
 ```
