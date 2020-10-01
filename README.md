@@ -11,6 +11,6 @@ Install using
 Import and use in Python using 
 
 ```
-from titlecap import main
-title = main.titlecaps('demo title text')
+from titlecap import title
+title = title.use_caps('demo title text')
 ```
